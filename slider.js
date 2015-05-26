@@ -17,7 +17,6 @@ $(function(){
         this.$selectBtn.eq(0).addClass('current');
         this.handleEvents();
         this.setTimer();
-        console.log(this.$el);
     };
 
     Slider.prototype.handleEvents = function() {
