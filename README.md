@@ -1,12 +1,12 @@
-# jquery simple slider
+#simple slider
 
 カスタマイズが容易なタイマー付きスライダーです
 
 ##機能
 
-* 次へボタン
-* 現在地ボタン
-* 一定時間で移動
+* 次へボタン(#slider_next)
+* ページ移動/現在地ボタン(#slider_select li)
+* 一定時間でスライド
 
 ##使い方
 
