@@ -13,7 +13,7 @@
 こんな感じのhtmlで動作します
 
 ```
-<div id="topmain_cover">
+<div id="slider_wrapper">
     <ul class="slider">
         <li>slide1</li>
         <li>slide2</li>
